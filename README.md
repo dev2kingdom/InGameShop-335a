@@ -8,6 +8,7 @@ Im looking for someone who can make it work with FusionGEN: https://github.com/F
 
 
 Unique and working store is perfect for your server AzerothCore, TrinityCore, and Mangos for 3.3.5a.
+
 It works on Eluna written in Lua and uses the AIO module which can be downloaded from this [link](https://github.com/Rochet2/AIO).
 
 **Installation:**
