@@ -4,7 +4,7 @@
 
 **Lua Script Shop for WOTLK 3.3.5a**
 
-Im looking for someone who can make it work with FusionGEN: https://github.com/FusionGen/FusionGEN database structure please !
+Im looking for someone who can make it work with FusionGEN: https://github.com/FusionGen/FusionGEN database structure please.
 
 
 
