@@ -1,3 +1,5 @@
+![Image](store.jpg)
+
 # InGameShop-335a
 Lua Script Shop for WOTLK 3.3.5a
 
