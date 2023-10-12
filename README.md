@@ -1,4 +1,4 @@
-![Image](store.png)
+![Image](.img/store.png)
 
 # InGameShop-335a
 
