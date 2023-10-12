@@ -10,9 +10,7 @@ It works on Eluna written in Lua and uses the AIO module which can be downloaded
 
 **Installation:**
 
-1. Put contents of "Client" in a patch using "Ladik's MPQ Editor"
-or simply create "New Folder" named patch-x.mpq in Your WOW Directory..
-
+1. Put contents of "Client" in a patch using "Ladik's MPQ Editor".
 2. Put contents of "Server" in the Lua scripts directory on the server.
 3. Run contents of "SQL" in MySQL in a database named "store".
 4. You can access the store through the "Escape" menu in-game.
