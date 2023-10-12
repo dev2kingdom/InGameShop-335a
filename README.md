@@ -82,9 +82,12 @@ All items tagged as new will always be pushed to the front of a category.
 
 tore_currencies:
 
-type = 1: gold, this will set this currency to normal ingame gold.
+type = 1: gold, this will set this currency to normal ingame gold. 
+
 type = 2: item token, this will set this currency to use an item as currency.
+
 data: this is the entry id of the item token.
+
 type = 3: server handled, this should be used for any other currency, be it database driven donation/vote points or otherwise. 
 This requires special handling in Store_Server.lua, specifically in the functions SHOP_UI.DeductCurrency and StoreHandler.UpdateCurrencies.
 
