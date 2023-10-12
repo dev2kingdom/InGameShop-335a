@@ -9,12 +9,16 @@ Unique and working store for your server AzerothCore , TrinireCore and Mangos fo
 It works on Eluna written in Lua and uses the AIO module which can be downloaded from the link - https://github.com/Rochet2/AIO
 
 
-Installation:
+[b]Installation:
  
 Put contents of "Client" in a patch
+
 Put contents of "Server" in the Lua scripts directory on the server
+
 Run contents of "SQL" in MySQL in a database named "store"
-You can access the store through the "Escape" menu ingame.
+
+You can access the store through the "Escape" menu ingame.[/b]
+
 
 
 DB flags and other config specific stuff:
